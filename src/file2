@@ -1,3 +1,9 @@
 f2 in master
 to check soft
+<<<<<<< HEAD
 rel_1
+=======
+rel_1
+rel_2
+cherry-pick
+>>>>>>> 31bd8da (bugfix)
